@@ -79,7 +79,7 @@ span.psw {
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
-    <label for="mail"><b>Email</b></label>
+    <label for="mail"><b>Valid Email</b></label>
     <input type="mail" placeholder="Enter mail" name="mail" required>
 
     <label for="psw"><b>Password</b></label>
